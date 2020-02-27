@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "Fire",
+
+    "name": "John Doe",
+
+    "managerEmail": "boss@jci.com",
+
+    "email": "john.doe@jci.com",
+
+    "phoneNumber": "1234567890",
+
+    "status": "status_value",
+
+    "globalId": "",
+
+    "language": "Spanish",
+
+    "lastUpdateDate": "2019-10-27T18:30:49-0300"
+  }
+]
