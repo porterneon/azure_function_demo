@@ -7,4 +7,5 @@
 /NUnitTests/bin/Debug/netcoreapp3.0
 /UnitTests/bin/Debug/netcoreapp3.0
 /UnitTests/obj
-.vscode
+/.vscode
+/TestResult
